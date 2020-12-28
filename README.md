@@ -7,7 +7,7 @@ CodeChef id: https://www.codechef.com/users/jahnvicodes
 2) Commit to 100 days of Code by making your own repository journal and tracking your progress.
 3) Minimum 5 questions to be done everyday, be it on hackerank, codechef,  codeforces, leetcode etc.
 4) Participate in all the contests you come across
-5) Daily Goal --> 4 Hours daily programming + 2 Hours dily learning
+5) Daily Goal --> 4 Hours daily programming + 2 Hours daily learning
 
 ## Goals of this program
 1) 5* Hackerrank
