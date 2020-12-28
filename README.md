@@ -11,7 +11,8 @@ CodeChef id: https://www.codechef.com/users/jahnvicodes
 
 ## Goals of this program
 1) 5* Hackerrank
-2) 3* Codechef
+2) 2* Codechef
+3) Good hand on DSA
 3) Good placement
 
 You can checkout my solutions for these problems if you get stuck somewhere or if you're looking for an optimized approach. My CodeChef and other competetive programing username is: "jahnvicodes".
